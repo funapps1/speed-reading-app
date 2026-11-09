@@ -10,7 +10,7 @@ A small React demo for speed reading.
 - Displays a simple picture-like hint for the current word
 
 ## Run locally
-
+--
 ```bash
 npm install
 npm run dev
